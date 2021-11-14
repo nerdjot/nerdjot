@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+ 
+# Hey everyone 👋   ![](https://komarev.com/ghpvc/?username=nerdjot&color=blue&style=flat-square&label=Profile+visitors)</div>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nerdjot&show_icons=true&include_all_commits=true&theme=dracula" alt="Navjot's github stats" />
+</a>
